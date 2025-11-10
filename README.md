@@ -30,4 +30,4 @@ Tujuan utamanya sederhana: **bertahan selama mungkin tanpa menabrak apa pun!**
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/4ldar/spacedodger.git
+[git clone https://github.com/4ldar/spacedodger.git](https://github.com/4ldar/Space-Dodger.git)
