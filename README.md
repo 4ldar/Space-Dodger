@@ -1,30 +1,33 @@
 # 🚀 Spacedodger
 
-**Spacedodger** adalah game sederhana bertema luar angkasa di mana pemain mengendalikan pesawat untuk **menghindari asteroid dan rintangan** sebanyak mungkin. Tujuan utamanya adalah **bertahan selama mungkin tanpa menabrak** apa pun di layar.
+**Spacedodger** adalah game berbasis web di mana pemain mengendalikan pesawat luar angkasa dan berusaha **menghindari asteroid yang datang dari segala arah**.  
+Tujuan utamanya sederhana: **bertahan selama mungkin tanpa menabrak apa pun!**
 
 ---
 
 ## 🪐 Fitur Utama
 
-- 🎮 Gameplay cepat dan menantang  
-- 🌌 Tema luar angkasa futuristik  
-- 💥 Efek tabrakan dan skor real-time  
-- 🧠 Kontrol mudah tapi butuh refleks cepat  
-- 🏆 Sistem skor tertinggi (*high score system*)
+- 🎮 Gameplay cepat dan adiktif  
+- 💫 Animasi halus dan efek visual modern  
+- 🌌 Desain bertema luar angkasa  
+- 🧠 Mekanika sederhana tapi menantang  
+- 🏆 Sistem skor real-time  
 
 ---
 
 ## 🧩 Teknologi yang Digunakan
 
-- **Python 3.x**  
-- **Pygame** sebagai game engine  
-- Asset gambar dan suara diambil dari sumber bebas lisensi
+| Komponen | Teknologi |
+|-----------|------------|
+| 🎮 Engine Game | **JavaScript (Vanilla JS)** |
+| 🎨 Tampilan | **HTML5 + CSS3** |
+| 🪄 Animasi | `requestAnimationFrame()` + CSS transitions |
+| 💾 Data Skor (opsional) | LocalStorage |
 
 ---
 
 ## ⚙️ Cara Menjalankan Game
 
-1. Pastikan Python sudah terinstal di perangkatmu  
-2. Instal dependensi:
-   ```bash
-   pip install pygame
+### 1. Clone repository
+```bash
+git clone https://github.com/4ldar/spacedodger.git
